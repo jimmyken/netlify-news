@@ -18,5 +18,3 @@ hero:
       link: /about
 ---
 
-# 欢迎访问[beenews.netlify.app](https://beenews.netlify.app/)
-
