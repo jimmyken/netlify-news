@@ -2,13 +2,13 @@
 layout: home
 
 hero:
-  name: 72Live
-  text: '新闻速递'
+  name: BeeNews
+  text: '蜜蜂新闻速递'
   textsuffix: 'Platform'
   tagline: ✨ AI加持的个性化定制新闻聚合，为您节约时间
   image:
     src: /logo.png
-    alt: 72live News Logo
+    alt: Bee News Logo
   actions:
     - theme: brand
       text: Get Started
@@ -18,7 +18,5 @@ hero:
       link: /about
 ---
 
-# 欢迎访问News.72live.com
-
-持续增加不同栏目中.
+# 欢迎访问[beenews.netlify.app](https://beenews.netlify.app/)
 
